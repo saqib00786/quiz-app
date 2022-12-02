@@ -12,7 +12,7 @@ const Navigation = () => {
 
     return (
         <NavigationContainer>
-            <Stack.Navigator>
+            <Stack.Navigator initialRouteName='DashBoard'>
                 <Stack.Screen
                     name={'Result'}
                     component={Result}

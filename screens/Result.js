@@ -3,9 +3,9 @@ import React from 'react'
 
 const Result = () => {
     return (
-        <View>
-            <Text>Result</Text>
-        </View>
+        <View >
+           <Text>Result</Text>
+        </View >
     )
 }
 
